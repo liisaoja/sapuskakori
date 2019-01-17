@@ -1,0 +1,165 @@
+[04-Oct-2018 15:26:12 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/inc/top.php on line 38
+[04-Oct-2018 15:26:12 UTC] PHP Stack trace:
+[04-Oct-2018 15:26:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 15:26:12 UTC] PHP   2. include_once() /home/ubuntu/workspace/verkkokauppa/kauppa.php:2
+[04-Oct-2018 15:46:20 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/inc/top.php on line 38
+[04-Oct-2018 15:46:20 UTC] PHP Stack trace:
+[04-Oct-2018 15:46:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 15:46:20 UTC] PHP   2. include_once() /home/ubuntu/workspace/verkkokauppa/kauppa.php:2
+[04-Oct-2018 15:47:19 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/inc/top.php on line 38
+[04-Oct-2018 15:47:19 UTC] PHP Stack trace:
+[04-Oct-2018 15:47:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 15:47:19 UTC] PHP   2. include_once() /home/ubuntu/workspace/verkkokauppa/kauppa.php:2
+[04-Oct-2018 15:47:25 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/inc/top.php on line 38
+[04-Oct-2018 15:47:25 UTC] PHP Stack trace:
+[04-Oct-2018 15:47:25 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 15:47:25 UTC] PHP   2. include_once() /home/ubuntu/workspace/verkkokauppa/kauppa.php:2
+[04-Oct-2018 17:09:51 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/verkkokauppa/inc/top.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[04-Oct-2018 17:09:51 UTC] PHP Stack trace:
+[04-Oct-2018 17:09:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:09:51 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/verkkokauppa/inc/top.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[04-Oct-2018 17:09:51 UTC] PHP Stack trace:
+[04-Oct-2018 17:09:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:09:51 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 29
+[04-Oct-2018 17:09:51 UTC] PHP Stack trace:
+[04-Oct-2018 17:09:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:10:33 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 29
+[04-Oct-2018 17:10:33 UTC] PHP Stack trace:
+[04-Oct-2018 17:10:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:11:01 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 29
+[04-Oct-2018 17:11:01 UTC] PHP Stack trace:
+[04-Oct-2018 17:11:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:13:07 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 29
+[04-Oct-2018 17:13:07 UTC] PHP Stack trace:
+[04-Oct-2018 17:13:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:13:23 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 29
+[04-Oct-2018 17:13:23 UTC] PHP Stack trace:
+[04-Oct-2018 17:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:14:12 UTC] PHP Warning:  include_once(/home/ubuntu/workspace/verkkokauppa/inc/top.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[04-Oct-2018 17:14:12 UTC] PHP Stack trace:
+[04-Oct-2018 17:14:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:14:12 UTC] PHP Warning:  include_once(): Failed opening '/home/ubuntu/workspace/verkkokauppa/inc/top.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[04-Oct-2018 17:14:12 UTC] PHP Stack trace:
+[04-Oct-2018 17:14:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:14:12 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 29
+[04-Oct-2018 17:14:12 UTC] PHP Stack trace:
+[04-Oct-2018 17:14:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:14:30 UTC] PHP Warning:  include_once(inc/top.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[04-Oct-2018 17:14:30 UTC] PHP Stack trace:
+[04-Oct-2018 17:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:14:30 UTC] PHP Warning:  include_once(): Failed opening 'inc/top.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[04-Oct-2018 17:14:30 UTC] PHP Stack trace:
+[04-Oct-2018 17:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[04-Oct-2018 17:14:30 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 29
+[04-Oct-2018 17:14:30 UTC] PHP Stack trace:
+[04-Oct-2018 17:14:30 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 11:37:32 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 32
+[05-Oct-2018 11:37:32 UTC] PHP Stack trace:
+[05-Oct-2018 11:37:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 11:39:03 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 32
+[05-Oct-2018 11:39:03 UTC] PHP Stack trace:
+[05-Oct-2018 11:39:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 11:39:58 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 48
+[05-Oct-2018 11:39:58 UTC] PHP Stack trace:
+[05-Oct-2018 11:39:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 11:41:22 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 35
+[05-Oct-2018 11:41:22 UTC] PHP Stack trace:
+[05-Oct-2018 11:41:22 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 11:41:35 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 37
+[05-Oct-2018 11:41:35 UTC] PHP Stack trace:
+[05-Oct-2018 11:41:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 11:41:42 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 37
+[05-Oct-2018 11:41:42 UTC] PHP Stack trace:
+[05-Oct-2018 11:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 17:28:55 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 34
+[05-Oct-2018 17:28:55 UTC] PHP Stack trace:
+[05-Oct-2018 17:28:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 17:29:23 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 34
+[05-Oct-2018 17:29:23 UTC] PHP Stack trace:
+[05-Oct-2018 17:29:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[05-Oct-2018 17:38:23 UTC] PHP Parse error:  syntax error, unexpected 'action' (T_STRING) in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 35
+[05-Oct-2018 17:38:30 UTC] PHP Parse error:  syntax error, unexpected 'action' (T_STRING) in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 35
+[08-Oct-2018 13:11:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/verkkokauppa/tallenna.php on line 26
+[08-Oct-2018 13:11:56 UTC] PHP Stack trace:
+[08-Oct-2018 13:11:56 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/tallenna.php:0
+[08-Oct-2018 13:13:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/verkkokauppa/tallenna.php on line 26
+[08-Oct-2018 13:13:08 UTC] PHP Stack trace:
+[08-Oct-2018 13:13:08 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/tallenna.php:0
+[08-Oct-2018 13:17:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/verkkokauppa/tallenna.php on line 26
+[08-Oct-2018 13:17:55 UTC] PHP Stack trace:
+[08-Oct-2018 13:17:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/tallenna.php:0
+[08-Oct-2018 13:18:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/verkkokauppa/tallenna.php on line 26
+[08-Oct-2018 13:18:14 UTC] PHP Stack trace:
+[08-Oct-2018 13:18:14 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/tallenna.php:0
+[08-Oct-2018 13:21:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 41
+[08-Oct-2018 13:22:00 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 41
+[09-Oct-2018 08:29:19 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 34
+[09-Oct-2018 08:29:19 UTC] PHP Stack trace:
+[09-Oct-2018 08:29:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 08:40:36 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 38
+[09-Oct-2018 08:40:36 UTC] PHP Stack trace:
+[09-Oct-2018 08:40:36 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 08:40:53 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 38
+[09-Oct-2018 08:40:53 UTC] PHP Stack trace:
+[09-Oct-2018 08:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 08:54:33 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 32
+[09-Oct-2018 08:54:33 UTC] PHP Stack trace:
+[09-Oct-2018 08:54:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 08:54:40 UTC] PHP Fatal error:  Call to a member function fetch() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 32
+[09-Oct-2018 08:54:40 UTC] PHP Stack trace:
+[09-Oct-2018 08:54:40 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 08:56:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 86
+[09-Oct-2018 08:56:29 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 86
+[09-Oct-2018 08:56:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 87
+[09-Oct-2018 09:06:13 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 34
+[09-Oct-2018 09:06:13 UTC] PHP Stack trace:
+[09-Oct-2018 09:06:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 09:19:16 UTC] PHP Fatal error:  Cannot use object of type PDOStatement as array in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 34
+[09-Oct-2018 09:19:16 UTC] PHP Stack trace:
+[09-Oct-2018 09:19:16 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:47:55 UTC] PHP Warning:  include_once(...inc/top.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:47:55 UTC] PHP Stack trace:
+[09-Oct-2018 16:47:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:47:55 UTC] PHP Warning:  include_once(): Failed opening '...inc/top.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:47:55 UTC] PHP Stack trace:
+[09-Oct-2018 16:47:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:47:55 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 33
+[09-Oct-2018 16:47:55 UTC] PHP Stack trace:
+[09-Oct-2018 16:47:55 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:48:32 UTC] PHP Warning:  include_once(...inc/top.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:48:32 UTC] PHP Stack trace:
+[09-Oct-2018 16:48:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:48:32 UTC] PHP Warning:  include_once(): Failed opening '...inc/top.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:48:32 UTC] PHP Stack trace:
+[09-Oct-2018 16:48:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:48:32 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 33
+[09-Oct-2018 16:48:32 UTC] PHP Stack trace:
+[09-Oct-2018 16:48:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:48:44 UTC] PHP Warning:  include_once(.../inc/top.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:48:44 UTC] PHP Stack trace:
+[09-Oct-2018 16:48:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:48:44 UTC] PHP Warning:  include_once(): Failed opening '.../inc/top.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:48:44 UTC] PHP Stack trace:
+[09-Oct-2018 16:48:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:48:44 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 33
+[09-Oct-2018 16:48:44 UTC] PHP Stack trace:
+[09-Oct-2018 16:48:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:49:13 UTC] PHP Warning:  include_once(.../inc/top.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:49:13 UTC] PHP Stack trace:
+[09-Oct-2018 16:49:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:49:13 UTC] PHP Warning:  include_once(): Failed opening '.../inc/top.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:49:13 UTC] PHP Stack trace:
+[09-Oct-2018 16:49:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:49:13 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 33
+[09-Oct-2018 16:49:13 UTC] PHP Stack trace:
+[09-Oct-2018 16:49:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:49:20 UTC] PHP Warning:  include_once(.../inc/top.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:49:20 UTC] PHP Stack trace:
+[09-Oct-2018 16:49:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:49:20 UTC] PHP Warning:  include_once(): Failed opening '.../inc/top.php' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 2
+[09-Oct-2018 16:49:20 UTC] PHP Stack trace:
+[09-Oct-2018 16:49:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:49:20 UTC] PHP Fatal error:  Call to a member function query() on a non-object in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 33
+[09-Oct-2018 16:49:20 UTC] PHP Stack trace:
+[09-Oct-2018 16:49:20 UTC] PHP   1. {main}() /home/ubuntu/workspace/verkkokauppa/kauppa.php:0
+[09-Oct-2018 16:52:16 UTC] PHP Parse error:  syntax error, unexpected 'select' (T_STRING) in /home/ubuntu/workspace/verkkokauppa/kauppa.php on line 50
